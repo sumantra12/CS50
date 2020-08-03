@@ -41,7 +41,7 @@ int main(void)
         
         cents = cents - 10;
         c++;
-        
+         
     }
     
     //checks how many 5 cents are need and subtracts from total if needed 
