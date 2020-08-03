@@ -4,7 +4,7 @@
 int main(void){
 
     // h represents height
-    int h;
+    int h; 
     
 
     do{
